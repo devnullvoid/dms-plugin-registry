@@ -1148,12 +1148,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "homeAssistantMonitor": {
-    "date": "2026-02-26T18:57:11+08:00",
+    "date": "2026-03-20T19:40:14+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KW819S5o8mqvqppo0AnoLkwjbakbITIiu8p6wqPT6ok=",
+    "hash": "sha256-shZovGUCgvioGGWgGA3bEnOsPBzQhn/05SZGfYb4sms=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -1177,12 +1177,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "1.2.6"
+      "version": "1.2.7"
     },
-    "path": "/nix/store/fj65bxkwiphn1p42in58clzcw3np7b2c-dms-plugin-hass",
-    "rev": "97beccdf732c3dee4560190cbcdad5b190a81295",
+    "path": "/nix/store/1lrr3jqn9pj44fkczdp2fw2jczabv46s-dms-plugin-hass",
+    "rev": "154c41afc0de78efc67e7fe7ba2abcd09992e8ea",
     "rootDir": "",
-    "sha256": "12gasfiw4ynapci3488vm5nj6k1fx04x0s4smapnmwk85vskavr9",
+    "sha256": "0sxjz237sii6wps7z1nh3hyaqwqjvc6ii83532lgi0h2cny6h5mj",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hueManager": {
