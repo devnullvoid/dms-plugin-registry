@@ -6512,12 +6512,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-10T22:11:23+07:00",
+    "date": "2026-08-11T20:14:34+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ATNm5pyeerVPHe6LyPHMOr3NDOUMoOUSLW6gEbj0+dw=",
+    "hash": "sha256-w6BTvGeeBiPxz7Awb5RhxviGFvi0l08r8GlpzEQEr94=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6543,12 +6543,12 @@
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "4.1.0"
+      "version": "4.2.0"
     },
-    "path": "/nix/store/rr1p6pgrdhlsw0vy6d6lx18xvy71ki1f-dms-quick-capture",
-    "rev": "0b080dea910c70aa5e17d397b4ef9e9f19dc367d",
+    "path": "/nix/store/vzxcrnnnbmb0dpnhygqisqqc31vn9zzi-dms-quick-capture",
+    "rev": "d11cc8f1fffbf8715ab96ea697f414574a224cac",
     "rootDir": "",
-    "sha256": "1p7ryjw1383f5l9fb80cwl6cvg9srkqwi2zf3m7vaylykkk6ccq1",
+    "sha256": "1pmg0i2cqsb9y0mlz5xlz0b8dy66c6a6yc5hrzqj61lycyy57863",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
@@ -7214,12 +7214,12 @@
     "url": "https://github.com/cglavin50/dms-tailscale"
   },
   "takeABreak": {
-    "date": "2026-06-21T12:24:46+07:00",
+    "date": "2026-08-11T21:41:32+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ZHATWu/3iPUKKA88swdiZRoXiefagteOi8yyFzMnKk0=",
+    "hash": "sha256-uiKZJyXjYm7mFNv73BFXtHvzSJSzm5zbGHerUo7KyVs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -7241,12 +7241,12 @@
       "repo": "https://github.com/hthienloc/dms-take-a-break",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-take-a-break/master/screenshot.png",
       "type": "daemon",
-      "version": "1.4.2"
+      "version": "1.4.3"
     },
-    "path": "/nix/store/c8w3917gf4xis4q1wfh92915rb7f15z5-dms-take-a-break",
-    "rev": "179456663483362235fb25199bdb72abdff15b23",
+    "path": "/nix/store/q9ahl12kn6shprzkz342lff0rqy4w4gx-dms-take-a-break",
+    "rev": "ff16711a650ddacbe7577877631ef1a1879b6885",
     "rootDir": "",
-    "sha256": "0k9a4wrigcncif7dg0nswy4if6k5c83v6g0g505gb27pxxd16w34",
+    "sha256": "0ny9ra755avp33drr6xkji4g6yxlaw8xryyv2kk6wqp34lkrj8ms",
     "url": "https://github.com/hthienloc/dms-take-a-break"
   },
   "tasks": {
@@ -7542,12 +7542,12 @@
     "url": "https://github.com/kerojiang/dms-transBin"
   },
   "typingSounds": {
-    "date": "2026-07-04T20:15:22+07:00",
+    "date": "2026-08-11T18:39:23+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-WtKH7v5YbPmg95NdrBjJTnEeJYtA1/3yp05Ygn2a/4E=",
+    "hash": "sha256-FJ50pN4C1q72P725LqHB7Co0rd/l8epaFVEMtyuW8Ag=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -7571,12 +7571,12 @@
       "name": "Typing Sounds",
       "repo": "https://github.com/hthienloc/dms-typing-sounds",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-typing-sounds/main/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.3.0"
     },
-    "path": "/nix/store/zr50w2vya5fhgq0n5ijcacfmjwhxgkhi-dms-typing-sounds",
-    "rev": "46982048b5131b669c3e531e0dea012390a104be",
+    "path": "/nix/store/961hgy0h5likmxhg3bp5lbq46k5d5xhc-dms-typing-sounds",
+    "rev": "878d060f208f353714a773513c34e5657e31f3f8",
     "rootDir": "",
-    "sha256": "10gzk9yq4n2flzrgvms0icjiwwafr4caqpckyyhgjv2qzvp8gljs",
+    "sha256": "027hjqmvf32i2mdfmwg5vynk8apcq6hjxfdx7zvaxmh2vsj797hl",
     "url": "https://github.com/hthienloc/dms-typing-sounds"
   },
   "unifiedTaskbar": {
